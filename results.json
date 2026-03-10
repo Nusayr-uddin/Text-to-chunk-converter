@@ -1,0 +1,54 @@
+[
+    {
+        "query": "What is Qatar's GDP forecast?",
+        "retrieval_time_seconds": 0.103,
+        "generation_time_seconds": 5.587,
+        "total_latency_seconds": 5.69,
+        "retrieved_chunks": 4,
+        "answer": "Qatar's GDP forecast in real terms (2018 prices) from 2023 to 2029 is as follows (percent change):\n\n- 2023: 1.2%\n- 2024: 1.7%\n- 2025: 2.4%\n- 2026: 5.2%\n- 2027: 7.9%\n- 2028: 3.5%\n- 2029: 1.6%\n\nThis includes forecasts for the hydrocarbon sector and the nonhydrocarbon sector:\n\n- Hydrocarbon sector growth rates: 1.4% (2023), 1.4% (2024), 3.0% (2025), 10.4% (2026), 16.1% (2027), 4.8% (2028), 0.2% (2029)\n- Nonhydrocarbon sector growth rates: 1.1% (2023), 1.9% (2024), 2.1% (2025), 2.2% (2026), 2.6% (2027), 2.6% (2028), 2.6% (2029)\n\n(Chunk 1)",
+        "citation_present": 1,
+        "completeness": 1,
+        "faithfulness": 1,
+        "context_relevance": 0.4,
+        "final_score": 0.85
+    },
+    {
+        "query": "Which table lists fiscal balance?",
+        "retrieval_time_seconds": 0.016,
+        "generation_time_seconds": 1.465,
+        "total_latency_seconds": 1.48,
+        "retrieved_chunks": 4,
+        "answer": "The table listing fiscal balance is \"3a. Summary of Central Government Finance, 2020-29 (Billions of Qatari Riyals)\" and \"3b. Summary of Central Government Finance, 2020-29 (Percent of GDP)\" as indicated in the context (Chunk 1 and Chunk 2).",
+        "citation_present": 1,
+        "completeness": 1,
+        "faithfulness": 1,
+        "context_relevance": 0.4,
+        "final_score": 0.85
+    },
+    {
+        "query": "What does the inflation chart show?",
+        "retrieval_time_seconds": 0.015,
+        "generation_time_seconds": 3.368,
+        "total_latency_seconds": 3.383,
+        "retrieved_chunks": 4,
+        "answer": "The inflation chart shows that headline inflation in Qatar declined from 5 percent in 2022 to 3.0 percent in 2023 (period average) and further decelerated to 1.2 percent in 2024 through October. This decline was driven by weakening inflation in rent and recreation services. Meanwhile, producer price and wage inflation remained contained. The chart also indicates that disinflation in non-tradables has continued, while tradables inflation has been steady. Additionally, monetary policy rates broadly followed the US Federal Reserve, with the lending-deposit policy rate corridor narrowing, and money growth edged up as monetary policy tightening stopped (Chunk 2, Chunk 3).",
+        "citation_present": 1,
+        "completeness": 1,
+        "faithfulness": 1,
+        "context_relevance": 0.4,
+        "final_score": 0.85
+    },
+    {
+        "query": "What does Figure 2 refer to?",
+        "retrieval_time_seconds": 0.014,
+        "generation_time_seconds": 22.475,
+        "total_latency_seconds": 22.489,
+        "retrieved_chunks": 4,
+        "answer": "The document does not contain enough information.",
+        "citation_present": 0,
+        "completeness": 0,
+        "faithfulness": 1,
+        "context_relevance": 0.4,
+        "final_score": 0.35
+    }
+]
